@@ -19,4 +19,4 @@ Here are some tutorials on NumPy:
 - [**Official NumPy Documentation**](https://numpy.org/) for further reference as and when required
 
 ## Jupyter Notebooks
-In this project, we'll be writing all our code in *Jupyter Notebooks*. They are widely used in data science as it makes it easy to write, run and manage code. Use [this article](https://realpython.com/jupyter-notebook-introduction/) to complete the setup on your laptop.
+In this project, we'll be writing all our code in *Jupyter Notebooks*. They are widely used in data science as it makes it easy to write, run and manage code. Use [**this article**](https://realpython.com/jupyter-notebook-introduction/) to complete the setup on your laptop.
