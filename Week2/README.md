@@ -9,4 +9,4 @@ The resources for this week will be the [**online course on Supervised Learning*
 You do not need to enrol for the course, you can audit all the content for free.
 
 <img src="../misc/coursera_audit.png" width="70%" height="70%"></img>  
-*Upon pressing the Enroll for Free button, you will see this popup. Click on the "Audit" hyperlink near the bottom, underlined in red*
+*Upon pressing the Enroll for Free button, you will see this popup. Click on the "Audit" hyperlink near the bottom, below the continue button*
