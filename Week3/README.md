@@ -1,6 +1,10 @@
 # Week 3: Deep Learning and Neural Networks
 
-In this week, we finally get started with neural networks! [**Here**](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&pp=iAQB) is a short YouTube playlist to get you started.
+In this week, we finally get started with neural networks! 
+
+Neural networks are a class of machine learning techniques in which a computer learns to perform a task by analyzing training examples. Its name comes from its supposed ability to mimic the functions of a human brain.
+
+[**Here**](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&pp=iAQB) is a short YouTube playlist to get you started.
 
 Refer to [**this YouTube tutorial**](https://www.youtube.com/watch?v=BzcBsTou0C0) for a more exhaustive overview and implementation in code.
 
