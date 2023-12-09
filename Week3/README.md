@@ -16,7 +16,7 @@ Once again, we will be following a Coursera course by Andrew NG, this time on [*
 
 For this week's assignment, and for the final project, we will be using yet another powerful Python library, **PyTorch**. PyTorch is an open-source deep learning library developed by Facebook's AI Research lab. It is a flexible and dynamic library, making it a popular choice for researchers and developers working on machine learning and deep learning projects.
 
-[**Here**](https://www.youtube.com/watch?v=BzcBsTou0C0)) is the link to a YouTube playlist that explains some basic PyTorch functions commonly used in machine learning. We recommend watching these videos before attempting this week's assignment, as they will help you with the code.
+[**Here**](https://www.youtube.com/watch?v=BzcBsTou0C0) is the link to a YouTube playlist that explains some basic PyTorch functions commonly used in machine learning. We recommend watching these videos before attempting this week's assignment, as they will help you with the code.
 
 Alternatively, you could use [**this YouTube tutorial**](https://www.youtube.com/watch?v=c36lUUr864M&pp=ygUcbmV1cmFsIG5ldHdvcmsgd2l0aCBweXRvcmNoIA%3D%3D), but please note that it is much more extensive and covers a lot of functions that are not relevant to this project. You just need to be familiar enough with it to know what to Google in case you get stuck :).
 
