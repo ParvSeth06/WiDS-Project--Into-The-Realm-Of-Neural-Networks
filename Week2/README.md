@@ -1,5 +1,7 @@
 # Week 2: Linear and Logistic Regression
 
+## Regression
+
 Before we begin developing full fledged neural networks, we begin by understanding one of the most fundamental machine learning techniques- regression.
 
 In this week, you will understand the logic behind linear and logistic regression, and how we harness mathematical and computational power to solve problems.
@@ -10,3 +12,7 @@ You do not need to enrol for the course, you can audit all the content for free.
 
 <img src="../misc/coursera_audit.png" width="70%" height="70%"></img>  
 *Upon pressing the Enroll for Free button, you will see this popup. Click on the "Audit" hyperlink near the bottom, below the continue button*
+
+## Neural Networks
+
+Although we won't formally start with neural networks until next week, [**here**](https://www.youtube.com/watch?v=aircAruvnKk) is a short YouTube playlist that explains neural networks very nicely, do go through it!
