@@ -13,7 +13,7 @@ Watch [this](https://www.youtube.com/watch?v=pDdP0TFzsoQ)https://www.youtube.com
 It's time to put together everything we've learned so far! For the final project, you will be implementing a Convolutional Neural Network on two datasets, first as a binary classifier and then as a ten way classifier.
 
 ### Part 1
-The dataset for this part is the [Cats and Dogs dataset](https://www.microsoft.com/en-us/download/details.aspx?id=54765)https://www.microsoft.com/en-us/download/details.aspx?id=54765).
+The dataset for this part is the [Cats and Dogs dataset](https://www.microsoft.com/en-us/download/details.aspx?id=54765).
 
 ### Part 2
 The dataset for this part is the more challenging [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
