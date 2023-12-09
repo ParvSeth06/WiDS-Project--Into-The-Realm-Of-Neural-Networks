@@ -4,9 +4,9 @@
 
 In the realm of image and pattern recognition, Convolutional Neural Networks (CNNs) have proven to be indispensable. Unlike traditional neural networks, CNNs are designed to efficiently process grid-like data, making them exceptionally well-suited for tasks like image classification. The key innovation lies in their ability to automatically learn hierarchical features directly from the data through convolutional layers.
 
-[Here](https://www.youtube.com/watch?v=iaSUYvmCekI) is the link to an MIT lecture that explains the concepts behind CNNs.
+[**Here**](https://www.youtube.com/watch?v=iaSUYvmCekI) is the link to an MIT lecture that explains the concepts behind CNNs.
 
-Watch [this](https://www.youtube.com/watch?v=pDdP0TFzsoQ) YouTube video for a more hands-on implementation via actual code.
+Watch [**this**](https://www.youtube.com/watch?v=pDdP0TFzsoQ) YouTube video for a more hands-on implementation via actual code.
 
 ## Final Project
 
