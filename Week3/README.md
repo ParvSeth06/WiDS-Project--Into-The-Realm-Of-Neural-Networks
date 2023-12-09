@@ -22,6 +22,6 @@ Alternatively, you could use [**this YouTube tutorial**](https://www.youtube.com
 
 ## Assignment
 
-It's finally time for you to build your first neural network! We will be developing a classifier on the popular [MNIST Dataset](Week3/MNIST_data.zip) that can identify handwritten digits. Please use the playlist linked in the previous section as reference for the code, and always feel free to reach out to either of us in case of any difficulties. You will have to submit your code as a ```.ipynb``` file, via a Google form that we will share soon.
+It's finally time for you to build your first neural network! We will be developing a classifier on the popular [MNIST Dataset](./MNIST_data.zip) that can identify handwritten digits. Please use the playlist linked in the previous section as reference for the code, and always feel free to reach out to either of us in case of any difficulties. You will have to submit your code as a ```.ipynb``` file, via a Google form that we will share soon.
 
 *To use the dataset linked above, download it from this repo, unzip it and load it into your Jupyter notebook using Python's* ```pickle``` *library.*
