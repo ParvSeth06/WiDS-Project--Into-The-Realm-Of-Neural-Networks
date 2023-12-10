@@ -8,7 +8,7 @@ Neural networks are a class of machine learning techniques in which a computer l
 
 We hope that you have already watched the four 3Blue1Brown videos from last week and have developed an intuitive understanding of neural networks. This week, we delve deeper into the concepts behind neural networks and the mathematics involved in them.
 
-Once again, we will be following a Coursera course by Andrew NG, this time on [**Deep Learning and Neural Networks**](https://www.coursera.org/learn/neural-networks-deep-learning). We recommend that you watch all the video lectures of the course for a more comprehensive grasp of this week's material.
+Once again, we will be following a Coursera course by Andrew NG, this time on [**Deep Learning and Neural Networks**](https://www.coursera.org/learn/neural-networks-deep-learning). We recommend that you watch all the video lectures of the course **upto and including week 3 of the course** for a more comprehensive grasp of this week's material.
 
 *Remember that just like last week, you do not need to enrol for the course, you can audit all the content for free.*
 
