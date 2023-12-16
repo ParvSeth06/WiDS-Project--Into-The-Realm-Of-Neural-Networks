@@ -19,6 +19,3 @@ Run a gradient descent model to predict the chance of having Coronary Heart Dise
 ## Neural Networks
 
 Although we won't formally start with neural networks until next week, [**here**](https://www.youtube.com/watch?v=aircAruvnKk) is a short YouTube playlist that explains neural networks very nicely, do go through it!
-
-As an optional task for the most enthusiastic ones, you can follow this [**playlist**](https://youtu.be/Wo5dMEP_BbI?feature=shared) to implement a Neural Network from scratch in raw Python.
-Note: The above task is a nice way to understand the code implementation but give it a try only after finishing this week's work. 
