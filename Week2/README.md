@@ -16,6 +16,7 @@ You do not need to enrol for the course, you can audit all the content for free.
 Learning to implement logistic regression from scratch fosters a deeper understanding of the algorithm's mechanics, parameter optimization using gradient descent and model evaluation.
 
 https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression
+
 Run a gradient descent model to predict the chance of having Coronary Heart Disease in 10 years.
 
 ## Neural Networks
