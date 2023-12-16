@@ -18,7 +18,7 @@ For this week's assignment, and for the final project, we will be using yet anot
 
 [**Here**](https://www.youtube.com/watch?v=c36lUUr864M&pp=ygUcbmV1cmFsIG5ldHdvcmsgd2l0aCBweXRvcmNoIA%3D%3D) is the link to a YouTube playlist on Deep Learning using PyTorch which is a good source to start with. We recommend watching the video before attempting this week's assignment, as it will help you with the code.
 
-Alternatively, you could use [**this YouTube tutorial**](https://www.youtube.com/watch?v=BzcBsTou0C0) as a reference to complete the assignments and proceed as required according to the video contents. 
+Alternatively, you could use [**this YouTube tutorial**](https://www.youtube.com/watch?v=BzcBsTou0C0) as a reference to complete the assignments and proceed as required till the fourth video of the playlist. 
 
 You just need to be familiar enough to know what to Google in case you get stuck :).
 
