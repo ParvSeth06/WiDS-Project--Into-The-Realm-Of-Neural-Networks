@@ -6,16 +6,19 @@ In the realm of image and pattern recognition, Convolutional Neural Networks (CN
 
 [**Here**](https://www.youtube.com/watch?v=iaSUYvmCekI) is the link to an MIT lecture that explains the concepts behind CNNs.
 
-Watch [**this**](https://www.youtube.com/watch?v=pDdP0TFzsoQ) YouTube video for a more hands-on implementation via actual code.
 
 ## Final Project
 
-It's time to put together everything we've learned so far! For the final project, you will be implementing a Convolutional Neural Network on two datasets, first as a binary classifier and then as a ten way classifier.
+It's time to put together everything we've learned so far! For the final project, you will be implementing a Convolutional Neural Network on two datasets, first as a binary classifier and then as a ten-way classifier.
+Point to consider: Ponder about the number of units in the output layer in both tasks.
 
 ### Part 1
 The dataset for this part is the [Cats and Dogs dataset](https://www.microsoft.com/en-us/download/details.aspx?id=54765).
 
 ### Part 2
 The dataset for this part is the more challenging [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
+Follow [**this**](https://www.youtube.com/watch?v=pDdP0TFzsoQ) YouTube video as a reference for the implementation of the code.
 
 Once again, you will have to submit your code in ```.ipynb``` files via a Google form that will be shared soon.
+
+
