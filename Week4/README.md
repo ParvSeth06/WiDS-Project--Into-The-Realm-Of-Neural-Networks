@@ -14,6 +14,7 @@ Point to consider: Ponder about the number of units in the output layer in both 
 
 ### Part 1
 The dataset for this part is the [Cats and Dogs dataset](https://www.microsoft.com/en-us/download/details.aspx?id=54765).
+Use the fifth and sixth videos of [**this YouTube tutorial**](https://www.youtube.com/watch?v=BzcBsTou0C0) to go ahead with this task.
 
 ### Part 2
 The dataset for this part is the more challenging [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
