@@ -2,7 +2,7 @@
 
 ## Python
 
-Let's kick off this course by covering the basics of Python. It's completely fine if you're new to the language; it's one of the easiest to learn and won't take long to pick up.
+Let's kick off this project by covering the basics of Python. It's completely fine if you're new to the language; it's one of the easiest to learn and won't take long to pick up.
 Here are some tutorials to get you started:
 
 - [**YouTube Tutorial**](https://www.youtube.com/watch?v=rfscVS0vtbw)
