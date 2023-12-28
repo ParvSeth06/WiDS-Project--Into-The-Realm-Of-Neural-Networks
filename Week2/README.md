@@ -13,8 +13,16 @@ You do not need to enrol for the course, you can audit all the content for free.
 <img src="../misc/coursera_audit.png" width="70%" height="70%"></img>  
 *Upon pressing the Enroll for Free button, you will see this popup. Click on the "Audit" hyperlink near the bottom, below the continue button*
 
+## Assignment
+
 Learning to implement logistic regression from scratch fosters a deeper understanding of the algorithm's mechanics, parameter optimization using gradient descent and model evaluation.
-Run a gradient descent model to predict the chance of having Coronary Heart Disease in 10 years on this [**dataset**](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression).
+
+For this week's assignment, you will build a gradient descent model that predict the chance of having Coronary Heart Disease in 10 years on [**this dataset**](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression).
+
+You will have to submit your code in an ```.ipynb``` notebook via a Google form that we will share soon.
+
+**Soft deadline: 4 Jan 2024**
+**Submission link:** Will be shared soon
 
 ## Neural Networks
 
