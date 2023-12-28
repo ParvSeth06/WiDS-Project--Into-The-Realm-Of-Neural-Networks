@@ -22,6 +22,7 @@ For this week's assignment, you will build a gradient descent model that predict
 You will have to submit your code in an ```.ipynb``` notebook via a Google form that we will share soon.
 
 **Soft deadline: 4 Jan 2024**
+
 **Submission link:** Will be shared soon
 
 ## Neural Networks
