@@ -25,7 +25,7 @@ You will have to submit your code in an ```.ipynb``` notebook via a Google form 
 
 **Soft deadline: 4 Jan 2024**
 
-**Submission link:** Will be shared soon
+**Submission link:** https://forms.gle/eU8CCm2NdU5D6Y9s6
 
 ## Neural Networks
 
