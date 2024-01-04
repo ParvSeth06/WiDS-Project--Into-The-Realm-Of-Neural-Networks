@@ -23,7 +23,7 @@ Refer to [**this document**](https://docs.google.com/document/d/1Ubu08WX3zkUg6Jn
 
 You will have to submit your code in an ```.ipynb``` notebook via a Google form that we will share soon.
 
-**Soft deadline: 4 Jan 2024**
+**Deadline: 6 Jan 2024**
 
 **Submission link:** https://forms.gle/eU8CCm2NdU5D6Y9s6
 
