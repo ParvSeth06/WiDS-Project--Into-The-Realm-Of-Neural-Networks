@@ -5,8 +5,7 @@
 This project is a hands-on learning journey designed to introduce mentees to the exciting domains of deep learning, neural networks, and convolutional neural networks (CNNs). Over the course of four weeks, mentees will progress from mastering basic Python and NumPy to implementing advanced CNNs on real-world datasets.
 
 ### Mentors:
-- Deeksha Dhiwakar
-- Sharvanee Sonawane
+- Parv Seth
 
 ### Project Highlights:
 
