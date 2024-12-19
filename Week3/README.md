@@ -28,8 +28,8 @@ It's finally time for you to build your first neural network! We will be develop
 
 You will have to submit your code as a ```.ipynb``` file.
 
-Submission Link: https://forms.gle/TYxkExDhQcsLVHEF9
+Submission Link: will be provided soon
 
-Deadline: 13 Jan 2024
+Deadline: 6 Jan 2025
 
 *To use the dataset linked above, download it from this repo, unzip it and load it into your Jupyter notebook using Python's* ```pickle``` *library.*
